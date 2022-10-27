@@ -1,0 +1,8 @@
+{
+  "name": "ExperimentalEntitiesPlugin",
+  "author": "ShirleyNekoDev",
+  "main": "de.groovybyte.chunky.experimentalentitiesplugin.ExperimentalEntitiesPlugin",
+  "version": "${version}",
+  "targetVersion": "${chunkyVersion}",
+  "description": "ExperimentalEntitiesPlugin"
+}
